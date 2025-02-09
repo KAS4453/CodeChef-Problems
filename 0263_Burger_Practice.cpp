@@ -10,10 +10,10 @@ int main() {
     for(int i = 0 ; i < t ; i++){
         cin>>a>>b;
         if(a >= b){
-            cout<<a<<endl;
+            cout<<b<<endl;
         }
         else{
-            cout<<b<<endl;
+            cout<<a<<endl;
         }
     }
 }
