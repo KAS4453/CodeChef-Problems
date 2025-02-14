@@ -8,7 +8,7 @@ int main() {
 
     while(t--){
         cin>>x;
-        if(x>=24){
+        if(x>24){
             cout<<"Yes"<<endl;
         }
         else{
